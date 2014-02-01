@@ -1,0 +1,19 @@
+INDEX VERSION 1.126+D:\workspaces\emperor-of-the-dusk\.metadata\.plugins\org.eclipse.jdt.core
+1794690476.index
+1144584973.index
+401058465.index
+733669265.index
+2254737570.index
+2439227880.index
+2790990560.index
+3611913062.index
+3808338738.index
+1249599820.index
+1601897233.index
+2371016188.index
+1767661385.index
+3973417585.index
+1842947140.index
+171547968.index
+2657551782.index
+3001305811.index
